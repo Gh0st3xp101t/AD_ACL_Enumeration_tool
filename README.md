@@ -4,7 +4,7 @@
 
 ## Description
 
-Suite complète d'outils pour l'énumération et l'exploitation Active Directory dans un environnement CTF. Ce toolkit comprend trois outils principaux optimisés pour différents scénarios d'attaque.
+Suite complète d'outils pour l'énumération et l'exploitation Active Directory dans un environnement autorisé. Ce toolkit comprend trois outils principaux optimisés pour différents scénarios d'attaque.
 
 ## 📦 Contenu du Toolkit
 
